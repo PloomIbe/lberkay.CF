@@ -75,10 +75,10 @@ a{
   100% { opacity:1; }
 }
 .text_fade{
-   -webkit-animation: fade_text 8s infinite ease-in;
-   -moz-animation: fade_text 8s infinite ease-in;
-   -o-animation: fade_text 8s infinite ease-in;
-    animation: fade_text 8s infinite ease-in;
+   -webkit-animation: fade_text 3.5s infinite ease-in;
+   -moz-animation: fade_text 3.5s infinite ease-in;
+   -o-animation: fade_text 3.5s infinite ease-in;
+    animation: fade_text 3.5s infinite ease-in;
 }
 div {
   position: absolute;
